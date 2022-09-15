@@ -5,7 +5,7 @@
 #### Software: https://www.sourcecodester.com/php/15653/best-student-result-management-system-project-source-code-php-and-mysql-free-download
 #### Version: 1.0
 #### Reference: https://github.com/toyydsBT123/One_of_my_take_on_SourceCodester/blob/main/Best-Student-Result-Management-System_1.0.poc.md
-
+123
 #### Description:
 ### The joint query injects the selected item into the query, and can obtain system information and administrator account password. The SQL injection vulnerability on this page severely compromises the security, confidentiality of the application by exposing the application to administrator level information compromise.
 
